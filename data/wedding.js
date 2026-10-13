@@ -19,7 +19,7 @@ export const wedding = {
     ar: "العنوان قيد التأكيد، تونس",
   },
   // Lien Google Maps (remplacez "Nom de la salle" par le vrai nom)
-  mapsQuery: "https://www.google.com/maps/place/Salle+des+f%C3%AAtes+FORUM/@34.7631617,10.7762269,17z/data=!3m1!4b1!4m6!3m5!1s0x1301d300156ca4cd:0xde004d1dcabd8bb8!8m2!3d34.7631617!4d10.7762269!16s%2Fg%2F11mlm_cpc3?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+  mapsQuery: "https://maps.app.goo.gl/3bmaUtbQVfNWGE549",
   // Numéro WhatsApp pour recevoir les confirmations (format international, sans +)
  
 };
